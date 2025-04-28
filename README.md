@@ -71,8 +71,8 @@ print("Reg No: 212223110055")
 
 ### Placement Dataset
 
-![image](https://github.com/user-attachments/assets/8bff5930-881d-4dd9-b023-b299f0b421fb)
-![image](https://github.com/user-attachments/assets/78078edf-4834-4305-af7e-dcbf211bfc60)
+![image](https://github.com/user-attachments/assets/fe92a80f-16c6-445a-a40c-80403b226b6c)
+
 
 
 
@@ -118,8 +118,8 @@ print("Reg No: 212223110055")
 
 ### Prediction of logistic regression
 
-![image](https://github.com/user-attachments/assets/1ef7c783-568a-47cc-8b3d-4a9a29ab39b8)
-![image](https://github.com/user-attachments/assets/ab689784-f43c-4005-8dff-5d1565e3a3a2)
+![image](https://github.com/user-attachments/assets/15b259fd-7f7f-46ea-bc02-166dd4c16e98)
+
 
 
 ## Result:
